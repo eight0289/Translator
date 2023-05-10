@@ -18,5 +18,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['translator'],
-    install_requires=['requests'],
+    install_requires=['ply'],
 )
